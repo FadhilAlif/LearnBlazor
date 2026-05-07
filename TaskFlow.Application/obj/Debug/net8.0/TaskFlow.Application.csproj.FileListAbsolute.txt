@@ -1,0 +1,16 @@
+E:\CODE\LearnBlazor\TaskFlow.Application\bin\Debug\net8.0\TaskFlow.Application.deps.json
+E:\CODE\LearnBlazor\TaskFlow.Application\bin\Debug\net8.0\TaskFlow.Application.dll
+E:\CODE\LearnBlazor\TaskFlow.Application\bin\Debug\net8.0\TaskFlow.Application.pdb
+E:\CODE\LearnBlazor\TaskFlow.Application\bin\Debug\net8.0\TaskFlow.Domain.dll
+E:\CODE\LearnBlazor\TaskFlow.Application\bin\Debug\net8.0\TaskFlow.Domain.pdb
+E:\CODE\LearnBlazor\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.Application.csproj.AssemblyReference.cache
+E:\CODE\LearnBlazor\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\LearnBlazor\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.Application.AssemblyInfoInputs.cache
+E:\CODE\LearnBlazor\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.Application.AssemblyInfo.cs
+E:\CODE\LearnBlazor\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.Application.csproj.CoreCompileInputs.cache
+E:\CODE\LearnBlazor\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.Application.sourcelink.json
+E:\CODE\LearnBlazor\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.7EAD9043.Up2Date
+E:\CODE\LearnBlazor\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.Application.dll
+E:\CODE\LearnBlazor\TaskFlow.Application\obj\Debug\net8.0\refint\TaskFlow.Application.dll
+E:\CODE\LearnBlazor\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.Application.pdb
+E:\CODE\LearnBlazor\TaskFlow.Application\obj\Debug\net8.0\ref\TaskFlow.Application.dll

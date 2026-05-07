@@ -22,38 +22,38 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[E:/CODE/LearnBlazor/Components/App.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+[E:/CODE/LearnBlazor/TaskFlow.Web/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFza0Zsb3cuV2ViXENvbXBvbmVudHNcQXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/CODE/LearnBlazor/Components/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+[E:/CODE/LearnBlazor/TaskFlow.Web/Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFza0Zsb3cuV2ViXENvbXBvbmVudHNcUGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/CODE/LearnBlazor/Components/Pages/Error.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+[E:/CODE/LearnBlazor/TaskFlow.Web/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFza0Zsb3cuV2ViXENvbXBvbmVudHNcUGFnZXNcRXJyb3IucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/CODE/LearnBlazor/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+[E:/CODE/LearnBlazor/TaskFlow.Web/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFza0Zsb3cuV2ViXENvbXBvbmVudHNcUGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/CODE/LearnBlazor/Components/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+[E:/CODE/LearnBlazor/TaskFlow.Web/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFza0Zsb3cuV2ViXENvbXBvbmVudHNcUGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/CODE/LearnBlazor/Components/Routes.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+[E:/CODE/LearnBlazor/TaskFlow.Web/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFza0Zsb3cuV2ViXENvbXBvbmVudHNcUm91dGVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/CODE/LearnBlazor/Components/_Imports.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+[E:/CODE/LearnBlazor/TaskFlow.Web/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFza0Zsb3cuV2ViXENvbXBvbmVudHNcX0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/CODE/LearnBlazor/Components/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-6r4yax1sqz
+[E:/CODE/LearnBlazor/TaskFlow.Web/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFza0Zsb3cuV2ViXENvbXBvbmVudHNcTGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-yxs1loo97b
 
-[E:/CODE/LearnBlazor/Components/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-c5vpx6ff7z
+[E:/CODE/LearnBlazor/TaskFlow.Web/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFza0Zsb3cuV2ViXENvbXBvbmVudHNcTGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-zv8nqxepqx
